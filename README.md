@@ -15,6 +15,10 @@ http://docs.pipelinedb.com
 
 https://github.com/addthis/hydra and stream-lib
 
+http://www.sqlstream.com
+
+https://voltdb.com/voltdb-topics/streaming-data
+
 ----
 
 **Addon:**
